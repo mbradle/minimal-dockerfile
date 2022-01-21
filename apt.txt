@@ -1,0 +1,3 @@
+gsl
+wget
+libxml2
