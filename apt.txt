@@ -1,3 +1,1 @@
-libgsl-dev
-wget
-libxml2
+docker
