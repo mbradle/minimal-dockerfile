@@ -1,1 +1,22 @@
-docker
+dot2tex
+gcc
+g++
+gfortran
+ghostscript
+git
+gsl-bin
+libboost-all-dev
+libgsl-dev
+libhdf5-serial-dev
+libxml2
+libxml2-dev
+libxml2-utils
+libxslt1-dev
+luatex
+make subversion
+python3-pip
+texlive-latex-extra
+valgrind
+vim
+wget
+xsltproc
