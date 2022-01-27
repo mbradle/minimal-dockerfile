@@ -1,3 +1,4 @@
+curl
 dot2tex
 gcc
 g++
