@@ -1,5 +1,6 @@
 curl
 dot2tex
+ffmpeg
 gcc
 g++
 gfortran
@@ -14,8 +15,9 @@ libxml2-dev
 libxml2-utils
 libxslt1-dev
 luatex
-make subversion
+make
 python3-pip
+subversion
 texlive-latex-extra
 valgrind
 vim
